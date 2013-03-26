@@ -1,0 +1,14 @@
+- gemspec
+- README
+- Rakefile
+- Gemfile
+- bundle install runs
+- add lib folder
+- add spec folder
+- get spec running
+  - add helper
+  - add basic controller spec
+  - test with a render spec
+- add helpers
+  - translation helpers
+  - tag helpers
