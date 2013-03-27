@@ -20,7 +20,7 @@ It's a good idea to pick a commit ID and specify it in your Gemfile in case I co
 gem 'scorched', git: 'https://github.com/bookworm/Scorched.git', ref: '7e4faf7aea36151c9414480d929104fa0525d325'
 ```
 
-Adding the extension is fairly simple and should be familar to you if have used Sinatra or Padrino.
+Adding the extension is fairly simple and should be familiar to you if have used Sinatra or Padrino.
 
 ```ruby
 require 'scorched-helpers'

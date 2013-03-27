@@ -1,7 +1,7 @@
 $LOAD_PATH.unshift File.expand_path('../lib', __FILE__)
 require 'scorched-helpers/version'
 
-Gem::Specification.new 'scorched-helper', ScorchedHelpers::VERSION do |s|
+Gem::Specification.new 'scorched-helpers', ScorchedHelpers::VERSION do |s|
   s.summary               = 'Helpers for the Scorched framework'
   s.description           = 'Helpers for the Scorched framework'
   s.authors               = ['K-2052']
