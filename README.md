@@ -31,3 +31,8 @@ run App
 ```
 
 After that you'll have helpers available in your template files. Dig over the specs for some usage examples.
+
+## Support
+
+If you found this repo useful please consider supporting me on [Gittip](https://www.gittip.com/k2052) or sending me some
+bitcoin `1csGsaDCFLRPPqugYjX93PEzaStuqXVMu`
